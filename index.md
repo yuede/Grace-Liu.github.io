@@ -14,7 +14,7 @@ Welcome! I'm Guyue Liu, a PhD student in the Department of Computer Science, [Ge
 
 My research interests include Network Function Virtualization (NFV), Software-Defined Networking (SDN) and Cloud Platform.
 
-**I'm currently looking for a SDN/NFV related 2016 Summer Intern.**
+**I'm currently looking for a SDN/NFV related 2016 Summer Internship.**
 
 &nbsp;
 
