@@ -11,11 +11,12 @@ title: "Grace Liu: Misc"
     - [Xen](http://www.xenproject.org/)
     - [KVM](http://www.linux-kvm.org/page/Main_Page)
     - [Open vSwitch](http://openvswitch.org/)
-  * Packet Processing Library and SDN Controller
+  * Packet Processing Library and SDN Software
     - [DPDK](http://dpdk.org/)
     - [PF_RING](http://www.ntop.org/products/packet-capture/pf_ring/)
     - [Ryu](https://osrg.github.io/ryu/)
     - [POX](http://www.noxrepo.org)
+    - [Mininet](http://mininet.org/)
   * Big Data Framework
     - [Hadoop](https://hadoop.apache.org/)
     - [Storm](http://storm.apache.org/)

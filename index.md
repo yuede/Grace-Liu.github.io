@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Grace Liu: Homepage"
 ---
-<img src="static/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 #Guyue (Grace) Liu
 {% include social.html %}
@@ -14,7 +14,7 @@ Welcome! I'm Guyue Liu, a PhD student in the Department of Computer Science, [Ge
 
 My research interests include Network Function Virtualization (NFV), Software-Defined Networking (SDN) and Cloud Platform.
 
-**I'm currently looking for a SDN/NFV related 2016 Summer Internship.**
+**I'm currently looking for a SDN/NFV related 2016 Summer Internship. [[CV]](static/info/grace-liu-cv.pdf)**
 
 &nbsp;
 
@@ -28,7 +28,7 @@ My research interests include Network Function Virtualization (NFV), Software-De
   * **[Virtual Function Placement and Traffic Steering in Flexible and Dynamic Software Defined Networks](static/papers/15-LANMAN-placement.pdf)**. *Ali Mohammadkhan, Sheida Ghapani, **Guyue Liu**, Wei Zhang, K. K. Ramakrishnan and Timothy Wood.* IEEE International Workshop on Local and Metropolitan Area Networks (LANMAN15), April 2015.
   * **[Cloud-Scale Application Performance Monitoring with SDN and NFV](static/papers/15-IWCA-netalytics.pdf)**. *__Guyue Liu__, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA15), March 2015.
   * **[Topology Discovery & Service Classification for Distributed-Aware Clouds](static/papers/14-IWCA-topclass.pdf)**. *Jinho Hwang, **Guyue Liu**, Sai Zeng, Frederick y Wu, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA14), March 2014.
-  * **[An Adaptive Bandwidth Allocation Algorithm for Live Migration Based on Service Features]()**. *Liu Shihai, Sun Yuqing, **Liu Guyue**.* Chinese Journal of Computer, Sept 2013.
+  * **[An Adaptive Bandwidth Allocation Algorithm for Live Migration Based on Service Features]()**. *Liu Shihai, Sun Yuqing, **Liu Guyue**.* Chinese Journal of Computers, Sept 2013.
 
 ## Research Experience
   * **Network Systems Research Intern, BBN Technologies**, Summer 2015
@@ -44,7 +44,7 @@ My research interests include Network Function Virtualization (NFV), Software-De
     * Mentors: Yasir Alfadhl and John Bigham
 
 ## Teaching Experience
-  * **Guest Lecture, George Washington University**, Fall 2015
+  * **Guest Lecturer, George Washington University**, Fall 2015
     * Global Environment for Network Innovations (GENI) Tutorial
   * **Teaching Assistant, George Washington University**, Fall 2013 - Spring 2015
     * CSCI 2113 Software Engineering
