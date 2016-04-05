@@ -5,7 +5,7 @@ title: "Grace Liu: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-## Guyue (Grace) Liu
+# Guyue (Grace) Liu
 {% include social.html %}
 
 &nbsp;
@@ -14,7 +14,11 @@ Welcome! I'm Guyue Liu, a PhD student in the Department of Computer Science, [Ge
 
 My research interests include Network Function Virtualization (NFV), Software-Defined Networking (SDN) and Cloud Platform.
 
-**I will be doing a 2016 Summer Internship at Hewlett Packard Labs.**
+&nbsp;
+
+## News
+  * Apr-2016:  I will be doing a 2016 Summer Internship at Hewlett Packard Labs.
+  * Mar-2016:  I will be presenting our work NetAlytics at [AT&T Research Academic Summit](http://www.research.att.com/conferences/2016_Academic_Summit/index.html?fbid=KtH4vUm5_vc).
 
 &nbsp;
 

@@ -1,5 +1,5 @@
 exclude: [README.md, deploy.sh]
-highlighter: pygments
+highlighter: rouge
 linkedin: graceliugw
 email: guyue.liu@gmail.com
 github: Grace-Liu
