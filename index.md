@@ -18,7 +18,7 @@ My research interests include Network Function Virtualization (NFV), Software-De
 
 ## News
   * Apr-2016:  I will be doing a 2016 Summer Internship at Hewlett Packard Labs.
-  * Mar-2016:  I will be presenting our work NetAlytics at [AT&T Research Academic Summit](http://www.research.att.com/conferences/2016_Academic_Summit/index.html?fbid=KtH4vUm5_vc).
+  * Mar-2016:  I will be presenting our work NetAlytics at AT&T Research Academic Summit.
 
 &nbsp;
 
