@@ -5,7 +5,7 @@ title: "Grace Liu: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-#Guyue (Grace) Liu
+## Guyue (Grace) Liu
 {% include social.html %}
 
 &nbsp;

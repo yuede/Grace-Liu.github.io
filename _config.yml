@@ -1,6 +1,5 @@
-auto: true
-exclude: README.md, deploy.sh
-pygments: true
+exclude: [README.md, deploy.sh]
+highlighter: pygments
 linkedin: graceliugw
 email: guyue.liu@gmail.com
 github: Grace-Liu
