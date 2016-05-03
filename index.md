@@ -33,7 +33,7 @@ My research interests include Network Function Virtualization (NFV), Software-De
   * **[SDNFV: Towards a Flexible and Dynamic Smart Data Plane](static/papers/15-NSDI-poster-sdnfv.pptx)**. *Wei Zhang, **Guyue Liu**, Ali Mohammadkhan, Jinho Hwang, K.K. Ramakrishnan, Timothy Wood.* Poster in Symposium on Networked System Design and Implementation (NSDI’15 Poster), May 2015.
   * **[Virtual Function Placement and Traffic Steering in Flexible and Dynamic Software Defined Networks](static/papers/15-LANMAN-placement.pdf)**. *Ali Mohammadkhan, Sheida Ghapani, **Guyue Liu**, Wei Zhang, K. K. Ramakrishnan and Timothy Wood.* IEEE International Workshop on Local and Metropolitan Area Networks (LANMAN15), April 2015.
   * **[Cloud-Scale Application Performance Monitoring with SDN and NFV](static/papers/15-IWCA-netalytics.pdf)**. *__Guyue Liu__, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA co-located with IC2E'15), March 2015.
-  * **[Topology Discovery & Service Classification for Distributed-Aware Clouds](static/papers/14-IWCA-topclass.pdf)**. *Jinho Hwang, **Guyue Liu**, Sai Zeng, Frederick y Wu, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA co-located with IC2E'15), March 2014.
+  * **[Topology Discovery & Service Classification for Distributed-Aware Clouds](static/papers/14-IWCA-topclass.pdf)**. *Jinho Hwang, **Guyue Liu**, Sai Zeng, Frederick y Wu, Timothy Wood.* IEEE International Workshop on Cloud Analytics (IWCA co-located with IC2E'14), March 2014.
   * **[An Adaptive Bandwidth Allocation Algorithm for Live Migration Based on Service Features]()**. *Liu Shihai, Sun Yuqing, **Liu Guyue**.* Chinese Journal of Computers, Sept 2013.
 
 ## Research Experience
