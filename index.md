@@ -24,7 +24,7 @@ My research interests include Network Function Virtualization (NFV), Software-De
 &nbsp;
 
 ## Publications
-  * **[OpenNetVM: A Platform for High Performance Network Service Chains]()**. *Wei Zhang, **Guyue Liu**, Wenhui Zhang, Neel Shah, Phillip Lopreiato, Gregoire Todeschi, K.K. Ramakrishnan, Timothy Wood.* Workshop on Hot Topics in Middleboxes and Network Function Virtualization (HotMiddlebox co-located with SIGCOMM'16), May 2016.
+  * **[OpenNetVM: A Platform for High Performance Network Service Chains](static/papers/16-HotMiddlebox-onvm.pdf)**. *Wei Zhang, **Guyue Liu**, Wenhui Zhang, Neel Shah, Phillip Lopreiato, Gregoire Todeschi, K.K. Ramakrishnan, Timothy Wood.* Workshop on Hot Topics in Middleboxes and Network Function Virtualization (HotMiddlebox co-located with SIGCOMM'16), August 2016.
   * **[Protocols to Support Autonomy and Control for NFV in Software Defined Networks](static/papers/15-IEEE-NFVSDN-protocol.pdf)**. *Ali Mohammadkhan, **Guyue Liu**, Wei Zhang, K.K. Ramakrishnan, Timothy Wood.* IEEE Conference on Network Function Virtualization & Software Defined Networks (IEEE NFV-SDN), Nov 2015.
   * **[NetDefense: Scalable, Flexible and Efficient DDoS Prevention with SDN and NFV](static/papers/15-Diversity-netdefense.pdf)**. *__Guyue Liu__, Timothy Wood.* Workshop on Supporting Diversity in Systems Researches (Diversity co-located with SOSP’15), October 2015.
   * **[CloudNet: Dynamic Pooling of Cloud Resources by Live WAN Migration of Virtual Machines](static/papers/15-TRANS-cloudnet.pdf)**. *Timothy Wood, K.K. Ramakrishnan, Prashant Shenoy, Jacobus Van der Merwe, Jinho Hwang, **Guyue Liu**, Lucas Chaufournier.* IEEE/ACM Transactions on Networking, October 2015.
